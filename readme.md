@@ -1,6 +1,6 @@
 # Tiny node boilerplate
 
-Minimal & clean node boiler plate with only eslint support. No funkey stuff.
+Minimal & clean node boilerplate with only eslint support. No funkey stuff.
 
 ## Features
 
