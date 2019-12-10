@@ -47,7 +47,3 @@ jspm_packages
 
 # CERTIFICATE
 id_rsa.pub
-
-# test files
-test.js
-test-output.json
