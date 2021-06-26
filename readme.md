@@ -4,9 +4,9 @@ Minimal & clean node boilerplate with only eslint support. No funky stuff.
 
 ## Features
 
- - No transpilers, just vanilla javascript
- - ES2017 latest features like Async/Await
- - Eslint configured
+- No transpilers, just vanilla javascript
+- ES2017 latest features like Async/Await
+- Eslint configured
 
 ## License
 
